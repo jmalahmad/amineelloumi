@@ -8,7 +8,7 @@
 		<version>2.2.4.RELEASE</version>
 		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>tn.spring</groupId>
+	<groupId>fr.spring</groupId>
 	<artifactId>crud-tuto</artifactId>
 	<version>1.0</version>
 	<name>crud-tuto</name>
