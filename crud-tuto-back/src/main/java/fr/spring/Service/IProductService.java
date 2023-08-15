@@ -1,8 +1,8 @@
-package tn.spring.Service;
+package fr.spring.service;
 
 import java.util.List;
 
-import tn.spring.entity.Product;
+import fr.spring.entity.Product;
 
 public interface IProductService {
 

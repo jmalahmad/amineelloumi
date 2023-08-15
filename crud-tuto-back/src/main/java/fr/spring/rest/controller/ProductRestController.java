@@ -1,4 +1,4 @@
-package tn.spring.RestController;
+package fr.spring.rest.controller;
 
 import java.util.List;
 
@@ -13,8 +13,8 @@ import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.ResponseBody;
 import org.springframework.web.bind.annotation.RestController;
 
-import tn.spring.Service.IProductService;
-import tn.spring.entity.Product;
+import fr.spring.service.IProductService;
+import fr.spring.entity.Product;
 
 @RestController
 public class ProductRestController {
